@@ -1,0 +1,511 @@
+[
+  {
+    "name" : "com.oracle.svm.reflect.JNIGeneratedMethodSupport",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "com.sun.jna.Native",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "com.sun.jna.Library",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "com.oracle.svm.jni.JNIGeneratedMethodSupport",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "com.oracle.svm.jni.access.JNINativeLinkage",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "com.sun.jna.NativeLibrary",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "org.pcap4j.core.NativeMappings",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Object",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Class",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.reflect.Method",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.String",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.nio.Buffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.nio.ByteBuffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.nio.CharBuffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.nio.ShortBuffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.nio.IntBuffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.nio.LongBuffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.nio.FloatBuffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.nio.DoubleBuffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Void",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Boolean",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Byte",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Character",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Short",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Integer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Long",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Float",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "java.lang.Double",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "byte",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "int",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "long",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true
+  },
+  {
+    "name" : "jtermios.JTermios.JTermiosInterface",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+  "name" : "jtermios.linux.JTermiosImpl.Linux_C_lib.pollfd",
+  "allDeclaredConstructors" : true,
+  "allPublicConstructors" : true,
+  "allDeclaredMethods" : true,
+  "allPublicMethods" : true,
+  "allDeclaredFields":true
+},
+  {
+    "name" : "jtermios.linux.JTermiosImpl.Linux_C_lib.serial_struct",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "jtermios.linux.JTermiosImpl.Linux_C_lib_DirectMapping",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "jtermios.linux.JTermiosImpl",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "com.pty4j.unix.linux.OSFacadeImpl",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "java.lang.Byte",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "java.lang.Object",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "com.pty4j.unix.linux.OSFacadeImpl.Linux_Util_lib",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "com.pty4j.unix.PtyHelpers$OSFacade",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "com.pty4j.unix.PtyHelpers.OSFacade",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "com.pty4j.unix.PtyHelpers",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "com.pty4j.unix.linux.OSFacadeImpl.C_lib",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "com.pty4j.unix.PtyHelpers.OSFacade",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "java.lang.Object[]",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "Ljava.lang.Object",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "java.lang.String",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name" : "java.lang.String[]",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields":true
+  },
+  {
+    "name":"java.io.ObjectInputStream",
+    "allPublicMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.json.JsonConfigurationFactory",
+    "methods":[{ "name":"<init>", "parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.properties.PropertiesConfigurationFactory",
+    "methods":[{ "name":"<init>", "parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.xml.XmlConfigurationFactory",
+    "methods":[{ "name":"<init>", "parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.config.yaml.YamlConfigurationFactory",
+    "methods":[{ "name":"<init>", "parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.lookup.JmxRuntimeInputArgumentsLookup",
+    "methods":[{ "name":"<init>", "parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.lookup.JndiLookup",
+    "methods":[{ "name":"<init>", "parameterTypes":[] }]
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.DatePatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.LevelPatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.LineSeparatorPatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.LoggerPatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.MessagePatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.logging.log4j.core.pattern.ThreadNamePatternConverter",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.log4j.Category",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.log4j.Logger",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.log4j.helpers.Loader",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.log4j.helpers.Loader",
+    "allDeclaredMethods":true
+  },
+  {
+    "name":"org.apache.log4j.LogManager",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.FixedWithNextNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.ValueNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.calc.AddNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.calc.BinaryArithmeticNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.calc.BinaryNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.calc.FloatConvertNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.calc.FloatDivNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.calc.FloatingNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.calc.MulNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.calc.SqrtNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.calc.SubNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.calc.UnaryArithmeticNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.nodes.calc.UnaryNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"org.graalvm.compiler.replacements.SnippetCounterNode",
+    "allDeclaredFields":true
+  },
+  {
+    "name":"sun.misc.Unsafe",
+    "fields":[{"name":"theUnsafe"}]
+  },
+  {
+    "name":"sun.reflect.Reflection",
+    "methods":[{ "name":"getCallerClass", "parameterTypes":["int"] }]
+  },
+  {
+    "name": "org.apache.logging.log4j.message.ReusableMessageFactory",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ]
+  },
+  {
+    "name": "org.apache.logging.log4j.message.DefaultFlowMessageFactory",
+    "methods": [
+      { "name": "<init>", "parameterTypes": [] }
+    ]
+  }
+]
